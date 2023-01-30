@@ -1,5 +1,4 @@
-{
-  "students": [
+[
     {
       "sname": "Anil",
       "fee": 10000,
@@ -65,5 +64,4 @@
       "title": "Math",
       "id": 8
     }
-  ]
-}
+ ]
