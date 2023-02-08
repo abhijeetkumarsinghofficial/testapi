@@ -1,67 +1,32 @@
 [
     {
-      "sname": "Anil",
-      "fee": 10000,
-      "course": "Angular",
-      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "star": 4,
-      "id": 1
+      "id": 1,
+      "title": "Blooming Beauty",
+      "url":"https://images.unsplash.com/photo-1579167728798-a1cf3d595960?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=726&q=80"
     },
     {
-      "sname": "Anil",
-      "fee": 10000,
-      "course": "Angular",
-      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "star": 4,
-      "id": 2
+      "id": 2,
+      "title": "Nature's Bouquet",
+      "url":"https://images.unsplash.com/photo-1575995872537-3793d29d972c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=724&q=80"
     },
     {
-      "sname": "Anil",
-      "fee": 10000,
-      "course": "Angular",
-      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "star": 4,
-      "id": 3
+      "id": 3,
+      "title": "Petal Paradise",
+      "url":"https://media.istockphoto.com/id/537213259/vector/greeting-card-floral-bouquet-with-roses.jpg?s=170667a&w=0&k=20&c=3Sono0eLvUWfo-mzgkQ9aFPLCNKJNnNarpYCxyJ3mPs="
     },
     {
-      "sname": "desctwo",
-      "fee": "33",
-      "course": "",
-      "url": "https://images.unsplash.com/photo-1414124488080-0188dcbb8834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "title": "tilte",
-      "star": 4,
-      "id": 4
+      "id": 4,
+      "title": "Floral Fantasy",
+      "url":"https://images.unsplash.com/photo-1585157603209-378be66bede1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDl8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60"
     },
     {
-      "fee": "323",
-      "course": "desc",
-      "url": "https://images.unsplash.com/photo-1414124488080-0188dcbb8834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "star": 2,
-      "title": "title",
-      "id": 5
+      "id": 5,
+      "title": "Garden of Delight",
+      "url":"https://images.unsplash.com/photo-1584283667103-94e61b1531c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60"
     },
     {
-      "fee": "24",
-      "course": "dee",
-      "url": "https://images.unsplash.com/photo-1414124488080-0188dcbb8834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "star": 2,
-      "title": "demo",
-      "id": 6
-    },
-    {
-      "fee": "3",
-      "course": "best book",
-      "url": "https://images.unsplash.com/photo-1508169351866-777fc0047ac5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "star": 2,
-      "title": "Python",
-      "id": 7
-    },
-    {
-      "fee": "42",
-      "course": "ADVANCE",
-      "url": "https://images.unsplash.com/photo-1414124488080-0188dcbb8834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-      "star": 2,
-      "title": "Math",
-      "id": 8
+      "id": 6,
+      "title": "Wildflower Wonder",
+      "url":"https://images.unsplash.com/photo-1584282617200-32f377e493ef?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=800&q=60"
     }
- ]
+]
